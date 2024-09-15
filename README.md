@@ -14,5 +14,3 @@ Enhance Problem-Solving Skills: Develop a structured approach to solving complex
 Improve Brainstorming Ability: Sharpen my ability to generate multiple solutions and choose the most efficient one.
 Expand Coding Knowledge: Learn and apply various programming languages and techniques.
 Join me on this journey of daily coding to continuously improve and achieve mastery in problem-solving. Happy coding! 🚀
-
-Feel free to modify this description to better fit your vision for the repository.
